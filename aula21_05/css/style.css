@@ -1,0 +1,35 @@
+body {
+    background-color: silver;
+    margin: 0px;
+    background: url(../img/unicid\ 2.jpg);
+    background-size: cover;
+
+}
+
+#container {
+    padding: 50px 5px 5px 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: rgba(85, 188, 171, 0.8);
+}
+
+.menu {
+    display: inline-block;
+    background-color: aquamarine;
+    height: 50px;
+    width: 100%;
+    padding-top: 5px;
+    margin: 0px;
+    position: fixed;
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
+a{
+    font-size: 18px;
+    font-family: "robotos slab", "Comic Sans MS";
+    padding-right: 20px;
+    text-decoration: none;
+}
